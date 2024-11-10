@@ -1,4 +1,11 @@
-# TrelloClone
+![Captura desde 2024-11-09 20-11-16](https://github.com/user-attachments/assets/d26975ec-46db-4954-a7e9-724e03ae3100)
+![Captura desde 2024-11-09 20-29-17](https://github.com/user-attachments/assets/55177bf4-1ce2-4b1b-a6db-e9c60206d942)
+![Captura desde 2024-11-09 20-30-22](https://github.com/user-attachments/assets/dd20da49-ed07-405d-b216-1b87cc3fcdcd)
+![Captura desde 2024-11-09 20-30-43](https://github.com/user-attachments/assets/375a5416-a31c-48b2-a236-84b464f371e8)
+
+
+
+# Trello-App
 
 This project was generated with Angular CLI version 17.1.0.
 
